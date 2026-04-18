@@ -1,4 +1,4 @@
-# 🐇 Actividad en Clase — RabbitMQ
+#  Actividad en Clase — RabbitMQ
 
 <div align="center">
 
@@ -202,7 +202,7 @@ Mensaje recibido: Nueva cita creada
 
 ---
 
-## 📊 Redis vs RabbitMQ
+##  Redis vs RabbitMQ
 
 | | Redis | RabbitMQ |
 |---|---|---|
